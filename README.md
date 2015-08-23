@@ -2,7 +2,7 @@ UNTreF - Algoritmos y Programación 1
 
 # Práctica: Encuesta
 
-## Arrays de Objectos
+## Arrays de Objetos
 
 ## Enunciado
 
